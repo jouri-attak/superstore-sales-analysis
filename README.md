@@ -52,9 +52,7 @@ Key variables include:
 * **Python**
 
   * Pandas
-  * NumPy
   * Matplotlib
-  * Seaborn
 * **Jupyter Notebook**
 * **Power BI**
 * **GitHub**
