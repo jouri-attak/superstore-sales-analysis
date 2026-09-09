@@ -8,6 +8,12 @@ The analysis was performed using **Python** for data cleaning and exploratory da
 
 ---
 
+## Power BI Dashboard
+
+![Sales & Profitability Performance Dashboard](powerbi_dashboard.png)
+
+---
+
 ## Objectives
 
 The main objectives of this project are to:
