@@ -111,7 +111,7 @@ Some of the main findings from the analysis include:
 
 ## Project Files
 
- 'Sales_Analysis.ipynb' Python notebook containing data preparation, exploratory analysis, visualizations, and findings 
+ 'sales_analysis.ipynb' Python notebook containing data preparation, exploratory analysis, visualizations, and findings 
  'Sales_Analysis.pbix'  Power BI file containing the interactive dashboard                                              
 
 ---
