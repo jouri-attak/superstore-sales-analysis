@@ -99,18 +99,51 @@ An interactive Power BI dashboard was created to present the main KPIs, trends, 
 
 ---
 
-## Key Findings
+## Key Findings & Business Recommendations
 
-Some of the main findings from the analysis include:
+### 1. Sales and Profitability Overview
 
-* **Total Sales:** $2,297,200.86
-* **Total Profit:** $286,397.02
-* Sales showed an overall **upward trend from 2014 to 2017**.
-* Sales generally peaked toward the **end of the year**, while January tended to have the lowest sales.
-* **Technology** generated the highest sales and profit among the three main categories.
-* **Furniture** generated more sales than Office Supplies but produced less profit.
-* Discounts and profitability showed an important relationship that can be explored further at the product and category level.
+- **Total Sales:** $2,297,200.86
+- **Total Profit:** $286,397.02
+- Sales increased overall from 2014 to 2017, indicating a positive growth trend.
+- Technology generated the highest sales and profit among the three main product categories.
 
+### 2. Discount Strategy and Table Profitability
+
+- Tables ranked fourth in total sales but generated the lowest total profit among the sub-categories.
+- **63.6% of Table records resulted in a loss** (203 out of 319).
+- Tables had an average discount of 26.1%.
+- Discount and profit showed a negative correlation of -0.672.
+
+**Recommendation:** Review discount policies for Tables and evaluate targeted promotions and minimum profit-margin thresholds to help reduce losses.
+
+### 3. Customer Segment Profitability
+
+- Consumer generated the highest total sales and profit but had the lowest profit margin (11.55%).
+- Home Office achieved the highest profit margin (14.03%).
+
+**Recommendation:** Investigate differences in purchasing behavior, product mix, and pricing across customer segments to identify opportunities to improve profitability.
+
+### 4. High-Profit Products
+
+- Technology was the strongest-performing main category in terms of sales and profit.
+- Copiers generated the highest total profit among sub-categories despite ranking eighth in sales.
+
+**Recommendation:** Evaluate opportunities to promote profitable Technology products, particularly Copiers, while monitoring their margins and demand.
+
+### 5. Seasonal Sales Trends
+
+- Sales increased overall between 2014 and 2017.
+- Sales consistently peaked during the fourth quarter.
+- January recorded the lowest sales each year.
+
+**Recommendation:** Use historical seasonal patterns to inform fourth-quarter inventory and marketing plans, while evaluating targeted campaigns to strengthen January sales.
+
+## Conclusion
+
+This project analyzed retail sales and profitability from 2014 to 2017 using Python for data preparation and exploratory data analysis, and Power BI for interactive visualization.
+
+The analysis identified differences in profitability across products and customer segments, highlighted potential concerns with Table discounting, and revealed seasonal sales patterns. These findings demonstrate how exploratory data analysis can support more informed decisions about pricing, promotions, product strategy, and sales planning.
 ---
 
 ## Project Files
@@ -120,19 +153,6 @@ Some of the main findings from the analysis include:
 
 ---
 
-## Business Insights
-
-The analysis can help a retail business understand:
-
-* Which products and categories generate the most value
-* Which periods produce the strongest sales
-* Where profitability can be improved
-* How discounts may affect profit
-* Which customer segments and regions perform best
-
-These insights can support better decisions around **product strategy, pricing, discounts, and sales planning**.
-
----
 
 ## Author
 
