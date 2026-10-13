@@ -144,12 +144,14 @@ An interactive Power BI dashboard was created to present the main KPIs, trends, 
 This project analyzed retail sales and profitability from 2014 to 2017 using Python for data preparation and exploratory data analysis, and Power BI for interactive visualization.
 
 The analysis identified differences in profitability across products and customer segments, highlighted potential concerns with Table discounting, and revealed seasonal sales patterns. These findings demonstrate how exploratory data analysis can support more informed decisions about pricing, promotions, product strategy, and sales planning.
+
 ---
 
 ## Project Files
 
- 'sales_analysis.ipynb' Python notebook containing data preparation, exploratory analysis, visualizations, and findings 
- 'Sales_Analysis.pbix'  Power BI file containing the interactive dashboard                                              
+- [`sales_analysis.ipynb`](sales_analysis.ipynb) — Jupyter Notebook containing data preparation, exploratory data analysis, visualizations, and findings.
+- [`Sales_Analysis.pbix`](Sales_Analysis.pbix) — Power BI file containing the interactive dashboard.
+- [`powerbi_dashboard.png`](powerbi_dashboard.png) — Preview of the Power BI dashboard.                                         
 
 ---
 
